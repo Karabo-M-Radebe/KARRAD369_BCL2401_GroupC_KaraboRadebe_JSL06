@@ -54,5 +54,9 @@ function initMenuSystem(menu) {
     // Call the function to display menu items
 }
 
+const me = 'coll'
 // Start the menu system by calling the init function
 initMenuSystem(menu);
+{{
+    console.log(me)
+}}
