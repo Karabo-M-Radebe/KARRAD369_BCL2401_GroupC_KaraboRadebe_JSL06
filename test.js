@@ -36,7 +36,7 @@ const menu = {
   
     // Calculate and update the total price
     const currentTotal = parseFloat(orderTotalElem.textContent);
-    const itemPrice = 10; // Assuming each item costs $10 (you can customize this)
+    const itemPrice = 25; // Assuming each item costs R25
     const newTotal = currentTotal + itemPrice;
     orderTotalElem.textContent = newTotal.toFixed(2);
   }
@@ -49,10 +49,3 @@ const menu = {
   // Call the init function to start the menu system
   initMenuSystem(menu);
   
-  
-  // This JavaScript code does the following:
-  
-  // 1. Defines the menu data in the `menu` object.
-  // 2. Implements the `displayMenuItems` function to dynamically generate and display menu items grouped by category.
-  // 3. Implements the `addToOrder` function as a callback for adding items to the order. It updates the order summary and total price.
-  // 4. Calls the `initMenuSystem` function to initialize the menu system and display the menu items.
