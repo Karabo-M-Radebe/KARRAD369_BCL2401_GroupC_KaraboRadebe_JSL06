@@ -23,7 +23,7 @@ The brief required that I:
 Although not many challenges were faced during this project, I wouldn't neccesarily claim mastery over any element that was included. I do however I will say that implementing functions has become a lot easier and I have become more comfortable with that.
 
 ### Challenges faced 
-Not many challenges were faced throughout this project, it was fairly easy in terms of execution and finding the solutions. This was due to the knowledge that was gained throughout the previous projects as I was able to implement solutions from previous solutions. 
+Not many challenges were faced throughout this project, it was fairly easy in terms of execution and finding the solutions. This was due to the knowledge that was gained throughout the previous projects as I was able to implement solutions from previous projects. 
 
 ### Areas of Improvement 
 An area of improvement that I would like to focus on moving forward, isn't necessarily skilled based, but rather a habit based one; being that I would greatly improving my coding skills if I were to return to the basics and better understand syntax structure and other basic concepts that are required as building blocks.  
